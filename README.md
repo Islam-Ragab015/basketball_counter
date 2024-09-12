@@ -1,16 +1,19 @@
-# basketball_count
+# Basketball Counter
 
-A new Flutter project.
+Basketball Counter is a dynamic app designed to streamline scorekeeping and stat tracking during basketball games. Whether you're a coach, player, or fan, this app allows you to monitor real-time scores and track individual player performance effortlessly. With its sleek interface and easy-to-navigate features, keeping up with game stats has never been easier.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+- **Real-Time Score Updates**: Track scores as they happen, ensuring you’re always up-to-date.
+- **Player Statistics**: Record detailed player performance, such as points, rebounds, and assists.
+- **Team Management**: Easily set up and manage teams and rosters for quick and efficient game tracking.
+- **Customizable Game Modes**: Adapt the app for different basketball formats, making it versatile for various games.
+- **Player Comparisons**: Compare player stats throughout the game to make informed decisions.
 
-A few resources to get you started if this is your first Flutter project:
+## Installation
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+To get started with the Basketball Counter app, follow these steps:
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. Clone the repository:
+   ```bash
+   https://github.com/Islam-Ragab015/basketball_counter
