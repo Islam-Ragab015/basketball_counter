@@ -15,6 +15,10 @@
 🔍 Player Comparisons: Compare player stats throughout the game to make informed decisions.
 
 
+## ⭐️ If you find this project useful, please give it a star! ⭐️
+Your support helps me to keep improving and maintaining this project. Thank you!
+
+
 ## Usage
 
 Once the application is running, you can:
